@@ -6,9 +6,9 @@ In practice, this repository involves Heterogeneous Information Network (HIN) em
 
 ## 列表 List
 
+* [**2018-ICLR-ATTENTION-BASED GRAPH NEURAL NETWORK FOR SEMI-SUPERVISED LEARNING**](https://zhuanlan.zhihu.com/p/65732106)
 * [**2019-IEEE-Heterogeneous Information Network Embedding for Recommendation**](https://zhuanlan.zhihu.com/p/63329653)
 * [**2019-WWW-Heterogeneous Graph Attention Network**](https://zhuanlan.zhihu.com/p/62884521)
-* [**2018-ICLR-ATTENTION-BASED GRAPH NEURAL NETWORK FOR SEMI-SUPERVISED LEARNING**](https://zhuanlan.zhihu.com/p/65732106)
 * [**2017-AAAI-Semantic Proximity Search on Heterogeneous Graph by Proximity Embedding**](https://zhuanlan.zhihu.com/p/60923226)
 
 > 持续更新中……
