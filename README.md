@@ -6,6 +6,8 @@ In practice, this repository involves Heterogeneous Information Network (HIN) em
 
 ## 列表 List
 
+* [**2014-ACM-DeepWalk Online Learning of Social Representations**](<https://zhuanlan.zhihu.com/p/68328470>)
+
 * [**2018-ICLR-ATTENTION-BASED GRAPH NEURAL NETWORK FOR SEMI-SUPERVISED LEARNING**](https://zhuanlan.zhihu.com/p/65732106)
 * [**2019-IEEE-Heterogeneous Information Network Embedding for Recommendation**](https://zhuanlan.zhihu.com/p/63329653)
 * [**2019-WWW-Heterogeneous Graph Attention Network**](https://zhuanlan.zhihu.com/p/62884521)
