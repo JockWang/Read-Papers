@@ -32,7 +32,7 @@ In this part, we
 
 ###  Making recommendation
 
- After  obtained  the  unified  representation  of  user $u$,  we compute  the  score  $\hat{z_i}$ for  each  candidate  item $v_i \in V$ by multiplying its embedding  $v_{i}$  by the user representation $S$, which can be defined as:
+After  obtained  the  unified  representation  of  user $u$,  we compute  the  score  $\hat{z_i}$ for  each  candidate  item $v_i \in V$ by multiplying its embedding  $v_{i}$  by the user representation $S$, which can be defined as:
 
 $$\hat{z}_{i}=\mathrm{z}_{u}^{\top} e_{v_{i}}.$$
 
@@ -57,7 +57,7 @@ In this section we describe the experimental setup and take a discussion of the 
 We evaluate the proposed model on four real-world representative datasets which vary significantly in domains and sparsity.
 
 * **MovieLens**: This is a popular benchmark dataset for evaluating recommendation algorithms. In this work, we adopt two well-established versions, **MovieLens 100k (ml-100k)** and **MovieLens 1m** **(ml-1m)**.
-* Amazon **Office**: This is a series of product review datasets crawled from Amazon.com by McAuley et al..
+* **Amazon Office**: This is a series of product review datasets crawled from Amazon.com by McAuley et al..
 
 ###  Evaluation metrics 
 
@@ -90,6 +90,8 @@ In order to understand the scalability of sequential recommendationmodels when a
 
 
 ## Conclusions
+
+In this paper, we proposed a novel graph attention network and transformer based model **CGATT** for recommending next item. Not only utilize we transformer encoder to capture the sequential information of user behavior, but also consider the complex realtion information of consumed items. From the extensive experiments, our model outperforms state-of-the-art methods for sequential recommendation on vatiety real-world datasets. 
 
 
 
